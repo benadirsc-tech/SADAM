@@ -1,0 +1,7 @@
+{
+  "name": "StepUp AI",
+  "description": "A high-performance personal growth and fitness orchestrator that uses Gemini AI to turn your daily habits and step goals into an immersive RPG-like growth journey.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
